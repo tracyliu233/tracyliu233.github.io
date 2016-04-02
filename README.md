@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/)
 
 [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/) is a one column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -24,3 +25,21 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
+=======
+tracyliu233.github.io
+====================
+
+## Hello world!
+
+This is my first try at github!
+
+My Github user page is at: 
+https://github.com/tracyliu233/
+
+My Github Pages repo can be found at:  
+https://github.com/tracyliu233/tracyliu233.github.io/
+
+And, soon, you can see my customized homepage at:
+
+http://tracyliu233.github.io/
+>>>>>>> 5e19ff939b0a53502d9ea1072e1fb0fcabb4569b
